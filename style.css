@@ -651,3 +651,20 @@ p {
         align-items: flex-start;
     }
 }
+
+@media screen and (max-width:680px){
+
+	#wrapper{
+		width: auto;
+		float: none;
+	}
+	#contact{
+		width: auto;
+		float: none;
+	}
+    #copyright{
+		width: auto;
+		float: none;
+	}
+
+}
